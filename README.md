@@ -95,6 +95,3 @@ pip install -r requirements.txt
 - Implement **cross-validation + early stopping** for more stable results.
 
 ---
-
-## License
-This project is open-source under the MIT License.
